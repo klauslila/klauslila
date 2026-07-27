@@ -30,7 +30,7 @@ write-up.
 
 ---
 
-### <img src="docs/mark-skaisearch-round.png" width="22" alt="" /> [skaisearch](https://skaisearch.com) &nbsp;·&nbsp; [**read the write-up →**](https://github.com/klauslila/skaisearch-showcase)
+### <img src="docs/mark-skaisearch-square.png" width="22" alt="" /> [skaisearch](https://skaisearch.com) &nbsp;·&nbsp; [**read the write-up →**](https://github.com/klauslila/skaisearch-showcase)
 
 A flight price tracker that collects its own data and trains its own model, running on a Mac Mini at home
 for about **$1 a day**. Measured 2026-07-26:
