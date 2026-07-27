@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-5a32a3?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-4c2889?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic-3f1f6e?style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-EB4C42?style=flat-square" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -32,16 +37,16 @@ write-up.
 
 ### <img src="docs/mark-skaisearch-square.png" width="22" alt="" /> [skaisearch](https://skaisearch.com) &nbsp;·&nbsp; [**read the write-up →**](https://github.com/klauslila/skaisearch-showcase)
 
-A flight price tracker that collects its own data and trains its own model, running on a Mac Mini at home
+A flight price tracker that collects its own data and trains its own AI model, running on a Mac Mini at home
 for about **$1 a day**. Measured 2026-07-26:
 
 <!-- stats:start:strip · generated from the live database, do not hand-edit -->
-**11.1M+** prices · **1.27M+** flights · **35** active routes · **5.0 GB** on disk ·
+**11.1M+** prices · **1.28M+** flights · **35** active routes · **5.0 GB** on disk ·
 collecting since 2026-02-02.
 <!-- stats:end:strip -->
 
 Two surfaces, both open without an account: a [public model page](https://skaisearch.com) with an
-interactive prediction console, and [the app](https://skaisearch.com/app) that opens as a read-only guest.
+interactive AI model console, and [the app](https://skaisearch.com/app) that opens as a read-only guest.
 The model retrains nightly and ships only if it beats the previous one on fares it has never seen. The
 write-up covers the architecture, the promotion gate, and why the forecaster is built but switched off.
 
@@ -55,7 +60,7 @@ There is a puzzle in it. Nobody has mentioned it yet.
 
 ---
 
-### 🧠 How I work with AI
+### 🧠 AI in my workflow
 
 AI is leverage I direct. What I build is the governed space it works inside, and that is two different
 problems depending on where I am.
@@ -94,7 +99,7 @@ Each one started as a correction I made more than once. That is the pattern: a r
 rule the repository enforces, so it stops depending on my attention. The single thing never delegated is
 whether something is good enough to ship.
 
-**→ [The full architecture, in the skaisearch write-up](https://github.com/klauslila/skaisearch-showcase#-how-i-work-with-ai)**
+**→ [The full architecture, in the skaisearch write-up](https://github.com/klauslila/skaisearch-showcase#-ai-in-my-workflow)**
 
 <p align="center">
   <sub>klaus.lila.au@gmail.com</sub><br />
