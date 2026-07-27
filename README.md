@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Tech Lead · JD Sports APAC · Sydney</b><br />
-  Seven years connecting legacy systems and modern platforms across Europe and APAC.
+  7+ years connecting legacy systems and modern platforms across Europe and APAC.
 </p>
 
 <p align="center">
