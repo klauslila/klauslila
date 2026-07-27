@@ -96,4 +96,7 @@ whether something is good enough to ship.
 
 **→ [The full architecture, in the skaisearch write-up](https://github.com/klauslila/skaisearch-showcase#-how-i-work-with-ai)**
 
-<p align="center"><sub>klaus.lila.au@gmail.com</sub></p>
+<p align="center">
+  <sub>klaus.lila.au@gmail.com</sub><br />
+  <sub>© 2024-2026 Klaus Lila. All rights reserved. Not licensed for reuse.</sub>
+</p>
