@@ -1,7 +1,7 @@
 <h1 align="center">Klaus Lila</h1>
 
 <p align="center">
-  <b>Tech Lead · JD Sports APAC · Sydney</b><br />
+  <b>Technical Lead · Integration Architecture · JD Sports APAC · Sydney</b><br />
   7+ years connecting legacy systems and modern platforms across Europe and APAC.
 </p>
 
@@ -37,7 +37,7 @@ write-up.
 
 ### <img src="docs/mark-skaisearch-square.png" width="22" alt="" /> [skaisearch](https://skaisearch.com) &nbsp;·&nbsp; [**read the write-up →**](https://github.com/klauslila/skaisearch-showcase)
 
-A flight price tracker that collects its own data and trains its own AI model, running on a Mac Mini at home
+An AI flight price platform that collects its own data and trains its own model, running on a Mac Mini at home
 for about **$1 a day**. Measured 2026-07-26:
 
 <!-- stats:start:strip · generated from the live database, do not hand-edit -->
