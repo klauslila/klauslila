@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Technical Lead · Integration Architecture · JD Sports APAC · Sydney</b><br />
-  7+ years connecting legacy systems and modern platforms across Europe and APAC.
+  8+ years connecting legacy systems and modern platforms across Europe and APAC.
 </p>
 
 <p align="center">
