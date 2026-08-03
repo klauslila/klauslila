@@ -38,10 +38,10 @@ write-up.
 ### <img src="docs/mark-skaisearch-square.png" width="22" alt="" /> [skaisearch](https://skaisearch.com) &nbsp;·&nbsp; [**read the write-up →**](https://github.com/klauslila/skaisearch-showcase)
 
 An AI flight price platform that collects its own data and trains its own model, running on a Mac Mini at home
-for about **$1 a day**. Measured 2026-07-26:
+for about **$1 a day**. Figures regenerate nightly from the live database:
 
 <!-- stats:start:strip · generated from the live database, do not hand-edit -->
-**12.1M+** prices · **1.36M+** flights · **35** active routes · **5.5 GB** on disk ·
+**12.3M+** prices · **1.37M+** flights · **35** active routes · **5.6 GB** on disk ·
 collecting since 2026-02-02.
 <!-- stats:end:strip -->
 
