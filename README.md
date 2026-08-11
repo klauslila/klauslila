@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Technical Lead · Integration Architecture · JD Sports APAC · Sydney</b><br />
-  8+ years connecting legacy systems and modern platforms across Europe and APAC.
+  8+ years connecting legacy systems and modern platforms across Europe and APAC.<br />
+  I own the integration architecture for five markets across Asia Pacific.
 </p>
 
 <p align="center">
@@ -29,6 +30,12 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
+At JD Sports I own the Asia Pacific integration architecture end to end: a Shopify storefront, an
+Object-Pascal middleware core and more than eight external platforms behaving as one system across five
+markets. I inherited it with almost no documentation and rebuilt it around an event-driven backbone on AWS
+without interrupting trading, so the region runs on one foundation instead of five separate ones. Three
+engineers work to the direction and guardrails I set, and the vendors sit with me too.
+
 Four years at Deloitte before this, six engagements, from an Italian luxury fashion house to a British
 carmaker. Most of what I build at work is private. Two projects are mine, and both have a full technical
 write-up.
@@ -41,7 +48,7 @@ An AI flight price platform that collects its own data and trains its own model,
 for about **$1 a day**. Figures regenerate nightly from the live database:
 
 <!-- stats:start:strip · generated from the live database, do not hand-edit -->
-**13.1M+** prices · **1.43M+** flights · **35** active routes · **6.0 GB** on disk ·
+**13.4M+** prices · **1.45M+** flights · **35** active routes · **6.1 GB** on disk ·
 collecting since 2026-02-02.
 <!-- stats:end:strip -->
 
