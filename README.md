@@ -48,7 +48,7 @@ An AI flight price platform that collects its own data and trains its own model,
 for about **$1 a day**. Figures regenerate nightly from the live database:
 
 <!-- stats:start:strip · generated from the live database, do not hand-edit -->
-**14.4M+** prices · **1.53M+** flights · **36** active routes · **6.6 GB** on disk ·
+**14.5M+** prices · **1.55M+** flights · **36** active routes · **6.8 GB** on disk ·
 collecting since 2026-02-02.
 <!-- stats:end:strip -->
 
