@@ -31,14 +31,14 @@
 </p>
 
 At JD Sports I own the Asia Pacific integration architecture end to end: a Shopify storefront, an
-Object-Pascal middleware core and more than eight external platforms behaving as one system across five
+Object-Pascal middleware core and 36 platforms and services behaving as one system across five
 markets. I inherited it with almost no documentation and rebuilt it around an event-driven backbone on AWS
-without interrupting trading, so the region runs on one foundation instead of five separate ones. Three
+without interrupting trading, so the region runs on one foundation instead of five separate ones. Two
 engineers work to the direction and guardrails I set, and the vendors sit with me too.
 
-Four years at Deloitte before this, six engagements, from an Italian luxury fashion house to a British
-carmaker. Most of what I build at work is private. Two projects are mine, and both have a full technical
-write-up.
+Four years at Deloitte before this, from engineer to senior engineer in eighteen months. Six engagements,
+from an Italian luxury fashion house to a British carmaker. Most of what I build at work is private. Two
+projects are mine, and both have a full technical write-up.
 
 ---
 
