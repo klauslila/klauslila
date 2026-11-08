@@ -77,7 +77,7 @@ flowchart TD
   P(["AI is leverage I direct.<br/>What I build is the governed space it works inside."])
   P --> WA["at work · JD Sports APAC<br/><b>the problem is retrieval</b>"]
   WA --> S["Claude + MCP retrieval surface<br/>over internal Confluence"]
-  S --> S3[("ADRs and runbooks,<br/>answerable instead of merely written")]
+  S --> S3[("ADRs and runbooks<br/>you can ask a question of")]
   S --> S1["per-query permissions"]
   S --> S2["capped token budgets<br/>cost telemetry per workspace"]
   P --> MI["on my own projects<br/><b>the problem is drift</b>"]
@@ -87,7 +87,7 @@ flowchart TD
   G --> V["my review · nothing ships unread"]
 ```
 
-At work the useful move was making internal decisions **answerable** rather than writing more of them. A
+At work the useful move was making internal decisions **answerable**. A
 token budget that used to be gone by mid-morning now carries a full sprint, which is what makes running two
 programmes at once possible.
 
