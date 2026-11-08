@@ -36,7 +36,7 @@ markets. I inherited it with almost no documentation and rebuilt it around an ev
 without interrupting trading, so the region runs on one foundation instead of five separate ones. Three
 engineers work to the direction and guardrails I set, and the vendors sit with me too.
 
-Four years at Deloitte before this, from engineer to senior engineer in eighteen months. Six engagements,
+Four years at Deloitte before this, where I made senior engineer in eighteen months. Six engagements,
 from an Italian luxury fashion house to a British carmaker. Most of what I build at work is private. Two
 projects are mine, and both have a full technical write-up.
 
