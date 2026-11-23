@@ -1,7 +1,7 @@
 <h1 align="center">Klaus Lila</h1>
 
 <p align="center">
-  <b>Technical Lead · Integration Architecture · JD Sports APAC · Sydney</b><br />
+  <b>Principal Engineer · Integration Architecture · JD Sports APAC · Sydney</b><br />
   8+ years connecting legacy systems and modern platforms across Europe and APAC.<br />
   I own the integration architecture for five markets across Asia Pacific.
 </p>
