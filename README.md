@@ -32,8 +32,8 @@
 
 At JD Sports I own the Asia Pacific integration architecture end to end: a Shopify storefront, an
 Object-Pascal middleware core and 36 platforms and services behaving as one system across five
-markets. I inherited it with almost no documentation and rebuilt it around an event-driven backbone on AWS
-without interrupting trading, so the region runs on one foundation instead of five separate ones. Three
+markets. I inherited it with almost no documentation and have been moving it onto an event-driven backbone on
+AWS without interrupting trading, so the region runs on one foundation instead of five separate ones. Three
 engineers work to the direction and guardrails I set, and the vendors sit with me too.
 
 Four years at Deloitte before this, where I made senior engineer in eighteen months. Six engagements,
